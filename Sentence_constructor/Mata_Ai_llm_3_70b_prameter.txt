@@ -7,5 +7,5 @@ Word-by-word breakdown (each Chinese word with its English meaning).
 Grammar explanation (explain why the sentence is structured this way in simple terms).
 
 One alternative natural expression (if it exists, to show variety in real usage).
-
+ss
 Make the response concise, easy to follow, and suitable for learners from beginner to intermediate level."*
